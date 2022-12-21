@@ -1,0 +1,5 @@
+.backimg {
+  background-image: url("../public/Img1.jpg");
+  background-size: cover;
+  padding: 2rem;
+}
